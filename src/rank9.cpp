@@ -20,7 +20,7 @@
 
 #include <cassert>
 #include <cstring>
-#include "rank9.h"
+#include "rs9/rank9.h"
 
 rank9::rank9() : counts(nullptr) {}
 
